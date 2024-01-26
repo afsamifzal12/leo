@@ -13,7 +13,7 @@ s
 
 function new:
     cast 0u8 0u8 0u8 into r0 as Redow2;
-    cast 0u8 0u8 0u8 into r1 as Row;
+    cast 0u8 0u8 0u8 inffto r1 as Row;
     cast 0u8 0u8 0u8 into r2 as Row;
     cast r0 r1 r2 into r3 as Board;
     output r3 as Board.private;
