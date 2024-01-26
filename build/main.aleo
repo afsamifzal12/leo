@@ -9,7 +9,7 @@ struct Board:
     r1 as Row;
     r2 as Row;
     r3 as Row;
-
+s
 
 function new:
     cast 0u8 0u8 0u8 into r0 as Row;
