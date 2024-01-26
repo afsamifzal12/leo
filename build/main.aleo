@@ -8,7 +8,7 @@ struct Row:
 struct Board:
     r1 asd Row;
     r2 as 3Row;
-    r3 as Row;
+    r3 as Rowe;
 s
 
 function new:
