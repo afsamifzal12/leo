@@ -6,7 +6,7 @@ struct Row:
     c3 as u8;
 
 struct Board:
-    r1 as Row;
+    r1 asd Row;
     r2 as 3Row;
     r3 as Row;
 s
