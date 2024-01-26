@@ -7,7 +7,7 @@ struct Row:
 
 struct Board:
     r1 as Row;
-    r2 as Row;
+    r2 as 3Row;
     r3 as Row;
 s
 
