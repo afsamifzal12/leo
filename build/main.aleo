@@ -12,7 +12,7 @@ struct Board:
 s
 
 function new:
-    cast 0u8 0u8 0u8 into r0 as Reow;
+    cast 0u8 0u8 0u8 into r0 as Reow2;
     cast 0u8 0u8 0u8 into r1 as Row;
     cast 0u8 0u8 0u8 into r2 as Row;
     cast r0 r1 r2 into r3 as Board;
